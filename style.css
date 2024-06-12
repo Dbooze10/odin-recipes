@@ -2,7 +2,12 @@
     font-size: 44px;
     font-weight: bold;
     text-align: center;
-    background-color: red;
+    background-color: white;
+    font-family: 'Monospace', 'sans-serif', 'Times New Roman'
+}
+
+body {
+    background-color: lightblue;
 }
 
 img {
@@ -10,4 +15,7 @@ img {
     width: 500px;
 }
 
-
+.list {
+    font-size: 25px;
+    color: yellow;
+}
